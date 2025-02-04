@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 thisfsdfa
 =======
 "This is the new text file"
 >>>>>>> 956f0df (This is the commit with a new text file)
+=======
+"This is the new text file"
+=======
+thisfsdfa
+>>>>>>> f5f3fab (asdf;l)
+>>>>>>> bda2b05 (asdf;l)
