@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 yes
 
 this is a new line by amanda
@@ -7,3 +8,6 @@ yes
 
 okg
 >>>>>>> 44284af (fasdf)
+=======
+yes
+>>>>>>> 7897676 (asdf)
