@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 thisfsdfa
+=======
+"This is the new text file"
+>>>>>>> 956f0df (This is the commit with a new text file)
